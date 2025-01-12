@@ -1,0 +1,1001 @@
+ID_Carga,Tipo_Carga,Peso (kg),Volumen (m³),Cliente
+C001,No perecedera,1669,11,Cliente J
+C002,No perecedera,1235,28,Cliente U
+C003,No perecedera,784,24,Cliente S
+C004,No perecedera,1991,23,Cliente V
+C005,No perecedera,887,16,Client Z
+C006,Perecedera,405,20,Cliente O
+C007,Perecedera,1269,30,Cliente E
+C008,No perecedera,986,47,Cliente_D
+C009,No perecedera,879,5,CLIENTE C
+C010,Perecedera,1812,25,Cliente W
+C011,Perecedera,1644,38,Cliente O
+C012,Perecedera,1508,33,Cliente_F
+C013,No perecedera,106,11,Cliente P
+C014,No perecedera,330,34,Cliente_G
+C015,Perecedera,1123,18,Cliente O
+C016,No perecedera,1312,13,Cliente L
+C017,No perecedera,1616,5,Cliente_F
+C018,Perecedera,1696,16,Cliente_G
+C019,Perecedera,1698,39,Cliente_G
+C020,Perecedera,1688,5,Cliente V
+C021,Perecedera,1749,20,Client Y
+C022,No perecedera,1340,8,CLIENTE B
+C023,No perecedera,1045,15,Client Z
+C024,No perecedera,1823,11,CLIENTE C
+C025,Perecedera,1876,17,Cliente H
+C026,No perecedera,1348,45,CLIENTE B
+C027,No perecedera,685,28,Cliente S
+C028,Perecedera,916,23,Cliente S
+C029,Perecedera,246,10,Cliente V
+C030,Perecedera,922,33,Cliente Q
+C031,No perecedera,567,14,Cliente J
+C032,No perecedera,1934,19,CLIENTE B
+C033,Perecedera,1536,15,Cliente S
+C034,Perecedera,1457,35,Cliente P
+C035,Perecedera,1989,39,Cliente J
+C036,Perecedera,924,22,Cliente U
+C037,No perecedera,883,10,CLIENTE B
+C038,Perecedera,722,46,CLIENTE C
+C039,No perecedera,959,16,Cliente_D
+C040,Perecedera,1015,21,Cliente J
+C041,No perecedera,1732,8,Cliente L
+C042,No perecedera,393,33,Cliente V
+C043,No perecedera,791,10,Cliente I
+C044,No perecedera,666,5,Cliente Q
+C045,Perecedera,905,19,Cliente R
+C046,Perecedera,587,30,Client Z
+C047,No perecedera,1655,47,Client X
+C048,Perecedera,180,11,Cliente W
+C049,Perecedera,587,33,Cliente I
+C050,No perecedera,1006,34,Cliente N
+C051,Perecedera,1810,10,Cliente K
+C052,No perecedera,735,28,CLIENTE A
+C053,Perecedera,1639,34,Cliente I
+C054,Perecedera,1516,47,Cliente E
+C055,Perecedera,349,18,Client Z
+C056,Perecedera,467,5,Cliente_D
+C057,Perecedera,1421,48,Cliente_G
+C058,Perecedera,1235,47,Client X
+C059,Perecedera,1329,21,Cliente L
+C060,Perecedera,625,5,CLIENTE C
+C061,No perecedera,1220,24,Cliente P
+C062,Perecedera,266,49,Cliente J
+C063,No perecedera,654,32,Cliente J
+C064,No perecedera,1406,19,CLIENTE A
+C065,Perecedera,779,29,Cliente L
+C066,No perecedera,737,16,Client Z
+C067,No perecedera,1439,23,Cliente W
+C068,No perecedera,759,13,CLIENTE B
+C069,Perecedera,1553,49,Cliente M
+C070,No perecedera,978,46,Client X
+C071,No perecedera,828,6,Cliente Q
+C072,No perecedera,777,27,Cliente S
+C073,Perecedera,887,6,CLIENTE C
+C074,Perecedera,587,43,Cliente I
+C075,Perecedera,1334,25,CLIENTE C
+C076,Perecedera,1878,5,CLIENTE C
+C077,Perecedera,1244,34,Cliente E
+C078,Perecedera,675,18,Cliente K
+C079,No perecedera,752,41,Cliente_D
+C080,Perecedera,942,17,Cliente U
+C081,Perecedera,598,17,Cliente I
+C082,No perecedera,1093,31,Cliente_F
+C083,No perecedera,1335,49,Cliente T
+C084,No perecedera,239,6,CLIENTE C
+C085,No perecedera,1739,8,Cliente N
+C086,Perecedera,1329,32,Cliente U
+C087,Perecedera,710,37,CLIENTE C
+C088,No perecedera,1397,41,CLIENTE B
+C089,Perecedera,1643,49,Cliente M
+C090,No perecedera,1551,12,Cliente E
+C091,Perecedera,1906,18,Cliente N
+C092,No perecedera,1524,21,Cliente_F
+C093,Perecedera,1691,49,Cliente S
+C094,Perecedera,116,37,CLIENTE B
+C095,Perecedera,761,17,Cliente O
+C096,Perecedera,633,21,Cliente P
+C097,No perecedera,943,13,Cliente S
+C098,Perecedera,1562,42,Client Z
+C099,Perecedera,1307,31,CLIENTE B
+C100,No perecedera,617,13,Cliente Q
+C101,Perecedera,214,5,Client Z
+C102,Perecedera,1488,21,Cliente L
+C103,No perecedera,704,35,Cliente E
+C104,No perecedera,1364,9,Cliente E
+C105,No perecedera,1489,33,Cliente P
+C106,Perecedera,499,6,Cliente E
+C107,Perecedera,591,42,Client Y
+C108,Perecedera,1975,14,Cliente L
+C109,Perecedera,225,40,Cliente R
+C110,Perecedera,359,26,Cliente N
+C111,Perecedera,1222,47,Cliente I
+C112,Perecedera,569,20,Client X
+C113,Perecedera,223,34,Cliente R
+C114,Perecedera,439,45,Cliente U
+C115,Perecedera,1604,20,Cliente M
+C116,Perecedera,1782,28,Cliente I
+C117,No perecedera,378,49,Cliente_F
+C118,Perecedera,1239,44,Cliente E
+C119,Perecedera,1396,11,Cliente_F
+C120,No perecedera,1518,37,Cliente_D
+C121,Perecedera,102,22,Cliente T
+C122,Perecedera,540,10,Cliente S
+C123,No perecedera,1009,18,Cliente W
+C124,Perecedera,1130,30,Cliente V
+C125,Perecedera,951,35,Cliente U
+C126,Perecedera,471,35,Cliente I
+C127,No perecedera,173,6,Cliente O
+C128,Perecedera,539,31,Cliente V
+C129,Perecedera,833,24,Cliente_F
+C130,Perecedera,649,16,Cliente E
+C131,No perecedera,777,38,Cliente M
+C132,No perecedera,1671,17,Cliente J
+C133,Perecedera,1852,33,Cliente S
+C134,No perecedera,298,7,Cliente W
+C135,No perecedera,1333,12,Cliente W
+C136,Perecedera,1360,46,Cliente R
+C137,No perecedera,1295,42,Cliente U
+C138,No perecedera,568,16,Cliente K
+C139,Perecedera,118,50,Cliente_F
+C140,Perecedera,147,14,Cliente N
+C141,No perecedera,1173,48,Cliente W
+C142,No perecedera,1065,19,Cliente U
+C143,Perecedera,1757,11,Cliente E
+C144,No perecedera,559,28,CLIENTE A
+C145,Perecedera,1072,29,Cliente O
+C146,Perecedera,1940,43,Client Y
+C147,Perecedera,179,11,Cliente L
+C148,Perecedera,913,45,Cliente O
+C149,Perecedera,523,31,Cliente R
+C150,Perecedera,585,7,Cliente Q
+C151,No perecedera,624,20,Cliente O
+C152,Perecedera,1918,13,Cliente Q
+C153,No perecedera,942,50,Cliente_D
+C154,No perecedera,1649,35,Client Y
+C155,No perecedera,1177,36,Client X
+C156,No perecedera,1040,38,Cliente Q
+C157,Perecedera,866,5,Cliente J
+C158,Perecedera,431,32,Cliente H
+C159,No perecedera,1376,37,Cliente_F
+C160,No perecedera,1342,15,Client X
+C161,Perecedera,588,12,Cliente P
+C162,Perecedera,1341,26,Cliente O
+C163,No perecedera,746,21,Cliente_G
+C164,No perecedera,458,37,Cliente U
+C165,No perecedera,914,16,Cliente I
+C166,Perecedera,1716,18,Cliente T
+C167,No perecedera,658,6,Cliente T
+C168,Perecedera,154,44,Cliente K
+C169,Perecedera,1086,21,Cliente_D
+C170,Perecedera,1828,42,Cliente T
+C171,No perecedera,1586,7,Cliente T
+C172,Perecedera,315,20,Cliente K
+C173,Perecedera,219,40,Client X
+C174,Perecedera,328,30,Cliente M
+C175,No perecedera,848,10,CLIENTE B
+C176,No perecedera,1757,20,Cliente L
+C177,Perecedera,701,13,Client Y
+C178,Perecedera,1061,11,Cliente H
+C179,Perecedera,101,21,Cliente V
+C180,Perecedera,1032,47,Cliente M
+C181,Perecedera,1795,43,Client Z
+C182,Perecedera,741,39,Cliente U
+C183,No perecedera,1109,23,Cliente_F
+C184,No perecedera,658,8,Client Z
+C185,No perecedera,631,9,Cliente M
+C186,Perecedera,463,16,Cliente Q
+C187,No perecedera,244,48,Cliente M
+C188,Perecedera,613,43,Cliente K
+C189,Perecedera,737,48,Cliente_G
+C190,No perecedera,1656,48,Cliente L
+C191,Perecedera,1608,5,Cliente O
+C192,Perecedera,1816,21,Cliente O
+C193,No perecedera,1131,29,CLIENTE A
+C194,No perecedera,338,43,Client Y
+C195,No perecedera,1931,37,Cliente S
+C196,No perecedera,738,25,Cliente M
+C197,No perecedera,675,16,Cliente S
+C198,Perecedera,1164,19,Cliente P
+C199,No perecedera,1041,23,Cliente W
+C200,No perecedera,581,49,Cliente O
+C201,Perecedera,454,35,Cliente K
+C202,No perecedera,1582,14,Cliente V
+C203,No perecedera,1871,25,CLIENTE A
+C204,No perecedera,1178,32,Client Y
+C205,No perecedera,1833,22,Cliente V
+C206,Perecedera,1939,28,CLIENTE B
+C207,Perecedera,1758,35,Cliente_G
+C208,Perecedera,1052,49,Cliente O
+C209,No perecedera,1889,46,Cliente N
+C210,No perecedera,480,45,Cliente Q
+C211,No perecedera,1798,48,Cliente N
+C212,Perecedera,1446,35,Cliente M
+C213,Perecedera,1284,45,Cliente E
+C214,No perecedera,585,49,Client X
+C215,No perecedera,569,50,Cliente U
+C216,Perecedera,181,15,Cliente L
+C217,Perecedera,1287,24,Cliente_F
+C218,No perecedera,238,5,CLIENTE C
+C219,Perecedera,1951,13,Client Y
+C220,Perecedera,1644,27,Cliente_G
+C221,Perecedera,156,11,Cliente N
+C222,Perecedera,1356,18,Cliente S
+C223,Perecedera,1704,33,Cliente U
+C224,Perecedera,1099,48,CLIENTE A
+C225,No perecedera,487,43,Cliente_F
+C226,No perecedera,1617,34,Client X
+C227,Perecedera,1863,49,CLIENTE A
+C228,Perecedera,788,30,Cliente R
+C229,No perecedera,1623,30,CLIENTE C
+C230,No perecedera,684,18,Cliente S
+C231,Perecedera,869,48,Cliente Q
+C232,No perecedera,1792,15,Cliente M
+C233,No perecedera,612,47,Cliente M
+C234,Perecedera,1164,18,Cliente W
+C235,No perecedera,1697,36,Cliente H
+C236,No perecedera,1493,30,Cliente P
+C237,No perecedera,511,9,Cliente_G
+C238,Perecedera,1997,26,Cliente H
+C239,Perecedera,377,20,Cliente I
+C240,Perecedera,1022,49,Cliente T
+C241,No perecedera,1046,41,Cliente H
+C242,No perecedera,998,32,Cliente_D
+C243,Perecedera,1678,47,Cliente R
+C244,Perecedera,1397,33,Client Z
+C245,Perecedera,369,47,Cliente Q
+C246,Perecedera,839,38,Cliente M
+C247,Perecedera,766,29,Cliente O
+C248,No perecedera,960,13,Cliente S
+C249,No perecedera,1141,10,Cliente K
+C250,No perecedera,136,20,Cliente L
+C251,Perecedera,1416,35,Cliente J
+C252,No perecedera,1534,23,Cliente K
+C253,Perecedera,971,39,Cliente O
+C254,No perecedera,445,31,Cliente Q
+C255,Perecedera,1005,46,Cliente H
+C256,No perecedera,578,40,Cliente O
+C257,Perecedera,501,23,Cliente I
+C258,Perecedera,1024,19,Client X
+C259,Perecedera,1644,46,Cliente L
+C260,Perecedera,1822,9,Cliente E
+C261,No perecedera,363,15,Cliente L
+C262,No perecedera,1602,45,Cliente H
+C263,Perecedera,1638,29,Client X
+C264,No perecedera,1678,45,Cliente V
+C265,No perecedera,1050,8,CLIENTE B
+C266,Perecedera,212,38,Cliente_F
+C267,No perecedera,1969,27,CLIENTE C
+C268,No perecedera,1852,25,Client Z
+C269,Perecedera,1820,50,Cliente M
+C270,No perecedera,1767,41,Client Z
+C271,No perecedera,558,49,CLIENTE B
+C272,No perecedera,1101,26,Cliente V
+C273,Perecedera,1934,21,Client Z
+C274,Perecedera,1689,7,Cliente T
+C275,Perecedera,1930,48,Cliente_D
+C276,Perecedera,730,46,Cliente_F
+C277,No perecedera,1385,29,CLIENTE C
+C278,Perecedera,1293,26,Cliente V
+C279,Perecedera,117,34,Cliente J
+C280,Perecedera,363,11,Cliente P
+C281,No perecedera,159,38,Cliente H
+C282,No perecedera,757,50,Cliente T
+C283,No perecedera,157,39,CLIENTE C
+C284,Perecedera,771,27,Cliente R
+C285,No perecedera,1757,34,Cliente_G
+C286,Perecedera,1983,24,Cliente M
+C287,Perecedera,743,32,Cliente I
+C288,No perecedera,694,21,Cliente L
+C289,Perecedera,262,24,CLIENTE B
+C290,Perecedera,809,6,CLIENTE B
+C291,Perecedera,167,9,Cliente I
+C292,No perecedera,1989,42,Cliente K
+C293,No perecedera,650,13,Cliente_G
+C294,Perecedera,784,13,CLIENTE B
+C295,No perecedera,581,50,Cliente I
+C296,No perecedera,1633,48,Cliente L
+C297,Perecedera,853,33,Cliente S
+C298,Perecedera,1704,19,Cliente L
+C299,No perecedera,1202,34,Cliente S
+C300,Perecedera,713,27,Cliente V
+C301,No perecedera,1300,31,Client Y
+C302,Perecedera,223,45,Cliente_F
+C303,No perecedera,1261,47,Cliente_F
+C304,No perecedera,790,18,Client Z
+C305,Perecedera,185,40,Cliente T
+C306,No perecedera,1391,10,Cliente V
+C307,Perecedera,1240,35,CLIENTE B
+C308,Perecedera,1310,10,Cliente N
+C309,Perecedera,901,49,Cliente H
+C310,Perecedera,454,49,Cliente Q
+C311,No perecedera,1075,5,Cliente K
+C312,Perecedera,1334,23,Cliente V
+C313,No perecedera,297,36,Cliente V
+C314,Perecedera,1201,23,Cliente M
+C315,Perecedera,954,21,CLIENTE C
+C316,No perecedera,1542,50,Cliente S
+C317,No perecedera,1023,26,Cliente E
+C318,No perecedera,188,22,Cliente V
+C319,Perecedera,1099,14,Cliente P
+C320,Perecedera,1520,23,Cliente T
+C321,Perecedera,735,47,Client Z
+C322,No perecedera,518,42,Cliente I
+C323,No perecedera,374,11,Cliente T
+C324,Perecedera,155,32,Cliente T
+C325,Perecedera,1995,7,Cliente R
+C326,Perecedera,1506,34,Cliente M
+C327,Perecedera,1790,28,Cliente R
+C328,No perecedera,1367,9,CLIENTE B
+C329,Perecedera,238,26,CLIENTE A
+C330,Perecedera,1514,30,Cliente T
+C331,Perecedera,639,17,Cliente K
+C332,Perecedera,1709,50,Cliente K
+C333,No perecedera,1264,9,Cliente Q
+C334,Perecedera,193,34,Cliente K
+C335,Perecedera,1227,33,Cliente K
+C336,No perecedera,898,43,Cliente E
+C337,Perecedera,880,5,Cliente P
+C338,Perecedera,1384,19,Cliente L
+C339,No perecedera,857,18,Cliente R
+C340,Perecedera,1634,34,Cliente T
+C341,No perecedera,1476,29,Cliente R
+C342,No perecedera,1168,20,Client Z
+C343,No perecedera,1583,18,Cliente O
+C344,Perecedera,1852,46,Cliente R
+C345,No perecedera,218,33,Cliente H
+C346,No perecedera,682,15,Client X
+C347,No perecedera,1180,28,Cliente E
+C348,No perecedera,1283,32,Cliente W
+C349,No perecedera,1524,16,CLIENTE B
+C350,Perecedera,1021,33,Cliente T
+C351,No perecedera,1101,30,Cliente M
+C352,Perecedera,929,34,Cliente U
+C353,Perecedera,1160,12,Cliente O
+C354,No perecedera,740,27,CLIENTE C
+C355,Perecedera,1862,43,Cliente Q
+C356,Perecedera,1341,14,Cliente J
+C357,Perecedera,427,18,Cliente R
+C358,No perecedera,1534,18,Cliente H
+C359,Perecedera,129,13,Cliente L
+C360,Perecedera,1463,7,Cliente R
+C361,No perecedera,1712,12,Client X
+C362,Perecedera,497,27,Cliente H
+C363,No perecedera,232,42,Client X
+C364,Perecedera,1858,25,Cliente_F
+C365,No perecedera,224,29,Cliente H
+C366,Perecedera,1283,28,Cliente U
+C367,No perecedera,541,27,Client X
+C368,Perecedera,499,10,Cliente E
+C369,No perecedera,475,28,Cliente J
+C370,No perecedera,1354,31,Client Y
+C371,No perecedera,1357,36,Cliente O
+C372,No perecedera,850,17,Cliente J
+C373,No perecedera,1577,24,Cliente V
+C374,No perecedera,993,30,CLIENTE C
+C375,Perecedera,1432,5,Cliente U
+C376,No perecedera,609,30,CLIENTE A
+C377,No perecedera,1826,25,Cliente E
+C378,No perecedera,1196,38,CLIENTE B
+C379,Perecedera,386,43,Cliente_D
+C380,No perecedera,1371,40,Cliente_F
+C381,No perecedera,492,9,CLIENTE B
+C382,Perecedera,332,38,Client Y
+C383,No perecedera,456,23,Cliente Q
+C384,No perecedera,1774,32,Cliente O
+C385,No perecedera,447,38,Cliente_D
+C386,Perecedera,1548,36,Cliente V
+C387,No perecedera,1811,50,Cliente_G
+C388,Perecedera,1748,17,Cliente P
+C389,Perecedera,567,44,Client Y
+C390,No perecedera,1471,50,CLIENTE A
+C391,Perecedera,840,28,Cliente_G
+C392,No perecedera,931,11,Cliente Q
+C393,No perecedera,773,21,Cliente M
+C394,Perecedera,751,15,Cliente W
+C395,Perecedera,341,17,Cliente N
+C396,Perecedera,1179,33,Cliente V
+C397,No perecedera,280,22,Cliente_G
+C398,No perecedera,1236,48,Cliente K
+C399,No perecedera,989,5,Cliente J
+C400,Perecedera,1392,30,CLIENTE B
+C401,Perecedera,682,5,Cliente T
+C402,Perecedera,695,40,Cliente P
+C403,Perecedera,1289,38,Cliente I
+C404,No perecedera,889,17,Cliente T
+C405,Perecedera,936,10,Cliente O
+C406,Perecedera,1826,37,Cliente L
+C407,Perecedera,1706,48,Cliente V
+C408,Perecedera,460,32,CLIENTE B
+C409,Perecedera,670,17,Cliente M
+C410,Perecedera,1480,43,Client Z
+C411,No perecedera,942,45,Cliente W
+C412,No perecedera,894,21,Cliente S
+C413,No perecedera,1065,6,Cliente_F
+C414,No perecedera,929,28,Cliente V
+C415,Perecedera,231,28,Cliente S
+C416,Perecedera,1525,49,CLIENTE C
+C417,No perecedera,1884,18,Cliente J
+C418,Perecedera,1935,24,Cliente N
+C419,Perecedera,408,7,Cliente P
+C420,No perecedera,1080,16,Cliente P
+C421,No perecedera,1622,14,Cliente V
+C422,Perecedera,767,47,Cliente K
+C423,No perecedera,1655,49,Cliente S
+C424,Perecedera,1097,28,Cliente_D
+C425,No perecedera,1860,38,Cliente R
+C426,Perecedera,1686,38,Client X
+C427,Perecedera,1127,44,Cliente P
+C428,No perecedera,1866,46,CLIENTE A
+C429,No perecedera,101,29,Cliente S
+C430,No perecedera,943,24,Cliente_D
+C431,Perecedera,1565,28,Cliente R
+C432,Perecedera,164,18,Cliente V
+C433,Perecedera,396,47,Cliente V
+C434,Perecedera,877,31,Cliente I
+C435,No perecedera,1940,17,Cliente P
+C436,Perecedera,957,43,Cliente N
+C437,Perecedera,1664,20,Cliente J
+C438,No perecedera,501,43,Cliente M
+C439,No perecedera,1623,48,Client Z
+C440,No perecedera,127,39,CLIENTE B
+C441,Perecedera,947,44,Cliente M
+C442,Perecedera,316,36,Cliente U
+C443,Perecedera,344,41,Client Z
+C444,No perecedera,1571,37,CLIENTE B
+C445,No perecedera,279,19,Cliente M
+C446,Perecedera,193,25,Cliente N
+C447,Perecedera,925,14,Cliente T
+C448,Perecedera,1169,15,CLIENTE C
+C449,Perecedera,625,25,Cliente T
+C450,No perecedera,998,30,Cliente L
+C451,Perecedera,1952,22,Client X
+C452,Perecedera,610,8,Client Z
+C453,Perecedera,918,34,Cliente_F
+C454,Perecedera,1925,46,Cliente I
+C455,Perecedera,565,30,CLIENTE B
+C456,No perecedera,789,49,Cliente O
+C457,No perecedera,576,21,Cliente P
+C458,Perecedera,1557,43,Cliente P
+C459,Perecedera,1023,11,Cliente V
+C460,Perecedera,1240,26,Client Z
+C461,No perecedera,884,13,Cliente U
+C462,No perecedera,1465,21,Cliente R
+C463,No perecedera,1473,36,Cliente V
+C464,No perecedera,1254,13,Cliente Q
+C465,Perecedera,147,11,Cliente U
+C466,Perecedera,1802,37,Cliente I
+C467,Perecedera,1259,12,Cliente U
+C468,No perecedera,1723,20,Client Z
+C469,Perecedera,1907,47,Cliente W
+C470,No perecedera,1301,46,CLIENTE C
+C471,No perecedera,476,39,Cliente_D
+C472,Perecedera,850,44,Cliente_F
+C473,Perecedera,1217,20,Cliente W
+C474,No perecedera,1171,16,Cliente L
+C475,No perecedera,111,29,Cliente O
+C476,No perecedera,776,48,Cliente W
+C477,Perecedera,954,26,Client Z
+C478,Perecedera,547,46,Cliente_F
+C479,No perecedera,1267,39,Cliente V
+C480,No perecedera,1841,49,Cliente M
+C481,Perecedera,984,33,Cliente R
+C482,No perecedera,1927,32,Cliente S
+C483,No perecedera,514,49,Cliente O
+C484,Perecedera,392,7,Cliente I
+C485,Perecedera,651,29,Cliente_G
+C486,No perecedera,1006,7,Client X
+C487,Perecedera,1829,47,CLIENTE C
+C488,Perecedera,1974,7,Client Z
+C489,Perecedera,1545,19,Cliente W
+C490,Perecedera,1933,5,Cliente J
+C491,No perecedera,213,40,Cliente T
+C492,No perecedera,1599,12,Cliente L
+C493,Perecedera,407,45,Cliente K
+C494,No perecedera,1462,6,CLIENTE B
+C495,No perecedera,633,30,Cliente_D
+C496,Perecedera,921,40,Cliente J
+C497,No perecedera,1869,45,Cliente S
+C498,Perecedera,265,34,Client X
+C499,Perecedera,439,8,Cliente O
+C500,No perecedera,235,45,Cliente N
+C501,No perecedera,1886,28,Cliente M
+C502,No perecedera,269,31,Cliente J
+C503,No perecedera,1365,45,Cliente N
+C504,No perecedera,363,32,CLIENTE C
+C505,Perecedera,1343,46,Cliente N
+C506,No perecedera,1596,47,Cliente O
+C507,Perecedera,549,41,Client Z
+C508,Perecedera,1430,45,Cliente O
+C509,Perecedera,1094,49,Cliente N
+C510,No perecedera,475,21,Cliente U
+C511,Perecedera,531,50,Cliente Q
+C512,Perecedera,1397,19,Cliente N
+C513,Perecedera,1281,33,Cliente L
+C514,Perecedera,1136,8,Cliente I
+C515,Perecedera,1459,32,Cliente U
+C516,No perecedera,1401,25,Cliente_D
+C517,No perecedera,859,15,Cliente_D
+C518,No perecedera,1678,17,Cliente N
+C519,Perecedera,257,15,Cliente L
+C520,Perecedera,1858,33,Cliente N
+C521,Perecedera,1722,38,Cliente_F
+C522,No perecedera,120,35,CLIENTE A
+C523,Perecedera,495,24,Cliente O
+C524,No perecedera,1769,16,Cliente P
+C525,Perecedera,1842,23,Cliente Q
+C526,No perecedera,283,48,Cliente_G
+C527,No perecedera,633,29,Cliente W
+C528,Perecedera,1694,44,Cliente_D
+C529,No perecedera,372,10,CLIENTE C
+C530,Perecedera,662,32,Cliente R
+C531,Perecedera,443,10,CLIENTE B
+C532,Perecedera,100,17,Cliente U
+C533,No perecedera,334,33,Cliente I
+C534,No perecedera,1422,46,Cliente S
+C535,No perecedera,925,22,Cliente V
+C536,No perecedera,1545,22,Cliente_G
+C537,No perecedera,1619,15,Cliente H
+C538,No perecedera,1666,37,Cliente W
+C539,No perecedera,1122,46,Cliente_F
+C540,No perecedera,1216,46,Cliente J
+C541,No perecedera,1989,13,CLIENTE C
+C542,Perecedera,1097,26,Cliente U
+C543,Perecedera,723,44,Client Y
+C544,Perecedera,649,30,Cliente_D
+C545,Perecedera,348,26,Cliente J
+C546,No perecedera,100,29,Cliente J
+C547,Perecedera,679,37,Cliente M
+C548,No perecedera,364,22,Cliente S
+C549,Perecedera,186,33,Client Y
+C550,No perecedera,1098,43,Cliente J
+C551,Perecedera,310,7,CLIENTE C
+C552,No perecedera,1701,10,Cliente S
+C553,Perecedera,1200,40,Cliente P
+C554,No perecedera,1197,50,CLIENTE A
+C555,No perecedera,1068,49,Cliente N
+C556,No perecedera,1971,24,Cliente E
+C557,No perecedera,282,30,Cliente R
+C558,No perecedera,1444,43,Cliente_D
+C559,No perecedera,385,10,Cliente K
+C560,No perecedera,361,19,Cliente V
+C561,Perecedera,1412,28,Cliente N
+C562,No perecedera,821,28,CLIENTE C
+C563,Perecedera,1404,11,Cliente_D
+C564,Perecedera,1533,20,Cliente S
+C565,No perecedera,172,37,Cliente_G
+C566,Perecedera,620,37,Cliente H
+C567,No perecedera,784,20,Cliente K
+C568,No perecedera,480,28,Cliente H
+C569,No perecedera,1470,6,Cliente J
+C570,No perecedera,492,23,Cliente Q
+C571,No perecedera,1295,8,CLIENTE A
+C572,Perecedera,233,7,Cliente R
+C573,No perecedera,870,39,Cliente V
+C574,No perecedera,1774,11,Cliente_F
+C575,No perecedera,521,25,Cliente H
+C576,No perecedera,1900,26,Client X
+C577,Perecedera,835,42,Cliente P
+C578,Perecedera,1510,15,Cliente E
+C579,No perecedera,142,39,Cliente L
+C580,No perecedera,1607,18,Cliente K
+C581,Perecedera,1334,23,Cliente K
+C582,Perecedera,1169,48,CLIENTE C
+C583,Perecedera,1057,34,CLIENTE C
+C584,No perecedera,493,17,Cliente_D
+C585,No perecedera,1455,9,Client Y
+C586,Perecedera,1252,40,Cliente S
+C587,No perecedera,959,18,Cliente_D
+C588,No perecedera,1945,5,Cliente_F
+C589,No perecedera,209,9,Client Y
+C590,Perecedera,1086,6,Cliente U
+C591,No perecedera,657,49,Cliente U
+C592,No perecedera,170,33,Cliente P
+C593,Perecedera,1382,17,Cliente J
+C594,Perecedera,711,26,Cliente H
+C595,Perecedera,1621,16,Cliente O
+C596,No perecedera,1310,13,Cliente J
+C597,No perecedera,1018,29,Client Y
+C598,Perecedera,1301,40,Client X
+C599,No perecedera,1802,6,Cliente W
+C600,No perecedera,299,18,Cliente U
+C601,No perecedera,1698,11,Client Y
+C602,No perecedera,1926,16,Cliente M
+C603,Perecedera,191,21,Client Z
+C604,No perecedera,213,24,Cliente I
+C605,No perecedera,430,6,Client X
+C606,No perecedera,474,38,CLIENTE B
+C607,Perecedera,427,7,Cliente N
+C608,Perecedera,1287,5,Cliente J
+C609,Perecedera,783,10,Cliente I
+C610,No perecedera,655,41,Client Y
+C611,No perecedera,813,14,Cliente O
+C612,Perecedera,533,34,Cliente H
+C613,No perecedera,482,25,Cliente L
+C614,No perecedera,977,47,Cliente_D
+C615,Perecedera,1704,44,Cliente J
+C616,No perecedera,639,36,Cliente W
+C617,Perecedera,966,26,Cliente V
+C618,Perecedera,1911,20,Cliente M
+C619,Perecedera,1175,29,CLIENTE A
+C620,Perecedera,1507,27,Cliente K
+C621,No perecedera,1556,40,Cliente O
+C622,No perecedera,481,15,CLIENTE C
+C623,Perecedera,1181,35,Cliente J
+C624,No perecedera,1682,38,Cliente K
+C625,Perecedera,1765,8,Cliente I
+C626,No perecedera,1795,9,Cliente N
+C627,Perecedera,387,27,Cliente L
+C628,Perecedera,240,33,Cliente I
+C629,Perecedera,509,30,Cliente N
+C630,No perecedera,267,8,Cliente V
+C631,No perecedera,1525,50,Client Y
+C632,Perecedera,1926,37,Cliente S
+C633,No perecedera,1122,47,Cliente_F
+C634,No perecedera,765,31,Cliente P
+C635,Perecedera,1332,24,Cliente H
+C636,Perecedera,1965,21,Cliente L
+C637,Perecedera,348,15,Client X
+C638,No perecedera,1708,23,CLIENTE B
+C639,Perecedera,104,24,Cliente_G
+C640,Perecedera,206,41,Cliente V
+C641,Perecedera,595,50,Client Y
+C642,No perecedera,1625,12,Cliente H
+C643,No perecedera,212,33,Client Z
+C644,Perecedera,1269,11,Cliente V
+C645,No perecedera,1556,40,Cliente V
+C646,Perecedera,1091,45,CLIENTE B
+C647,No perecedera,1203,25,Cliente_G
+C648,Perecedera,1573,16,Cliente_D
+C649,No perecedera,474,38,Cliente I
+C650,No perecedera,282,15,CLIENTE A
+C651,Perecedera,1337,24,Client X
+C652,No perecedera,1728,13,CLIENTE A
+C653,No perecedera,878,31,CLIENTE C
+C654,No perecedera,1211,36,Cliente K
+C655,No perecedera,1659,18,Cliente O
+C656,Perecedera,508,47,Cliente U
+C657,Perecedera,689,40,Client Y
+C658,Perecedera,1130,20,Cliente_G
+C659,No perecedera,933,12,Cliente S
+C660,No perecedera,977,39,Cliente J
+C661,Perecedera,1169,44,CLIENTE C
+C662,Perecedera,151,21,Cliente S
+C663,Perecedera,1704,36,Cliente H
+C664,No perecedera,361,39,Cliente U
+C665,No perecedera,1370,23,Cliente J
+C666,Perecedera,1832,14,Cliente Q
+C667,Perecedera,928,10,Cliente O
+C668,Perecedera,1988,9,Client Z
+C669,Perecedera,727,19,Cliente U
+C670,No perecedera,652,43,Cliente K
+C671,No perecedera,986,14,Cliente P
+C672,Perecedera,838,12,Cliente N
+C673,No perecedera,732,38,Client Z
+C674,Perecedera,706,31,Cliente W
+C675,No perecedera,569,22,Client X
+C676,Perecedera,1086,44,Cliente T
+C677,Perecedera,1121,46,Cliente U
+C678,No perecedera,1237,22,Client Y
+C679,No perecedera,1125,35,Cliente_F
+C680,No perecedera,1702,27,Cliente_D
+C681,Perecedera,464,34,Cliente M
+C682,Perecedera,528,39,Cliente L
+C683,No perecedera,1676,23,Cliente U
+C684,No perecedera,1244,21,Cliente P
+C685,No perecedera,847,17,Cliente E
+C686,Perecedera,1885,50,Cliente H
+C687,Perecedera,137,39,Cliente_D
+C688,No perecedera,753,35,Cliente V
+C689,No perecedera,155,8,CLIENTE B
+C690,Perecedera,1507,47,Client X
+C691,No perecedera,568,16,Cliente N
+C692,Perecedera,286,14,CLIENTE B
+C693,Perecedera,490,13,Cliente L
+C694,Perecedera,1244,34,Cliente I
+C695,Perecedera,1785,28,Client Y
+C696,No perecedera,583,37,CLIENTE B
+C697,Perecedera,836,27,Cliente_D
+C698,No perecedera,1585,13,Cliente H
+C699,No perecedera,601,41,Cliente E
+C700,Perecedera,1931,44,Cliente J
+C701,Perecedera,1428,34,CLIENTE B
+C702,No perecedera,988,11,Cliente J
+C703,No perecedera,511,32,Client X
+C704,No perecedera,1213,48,Cliente H
+C705,No perecedera,1914,39,Client X
+C706,Perecedera,165,27,Cliente_F
+C707,No perecedera,1048,49,Client Y
+C708,No perecedera,1966,37,Cliente I
+C709,Perecedera,1095,27,Client Y
+C710,Perecedera,1392,47,Cliente_G
+C711,No perecedera,1578,29,Cliente J
+C712,No perecedera,1068,27,Cliente S
+C713,Perecedera,1036,17,Cliente P
+C714,No perecedera,540,7,Cliente N
+C715,No perecedera,458,27,Cliente N
+C716,No perecedera,1900,34,CLIENTE C
+C717,No perecedera,112,24,Cliente O
+C718,No perecedera,1639,15,Cliente T
+C719,No perecedera,558,40,Client Z
+C720,Perecedera,1916,28,Cliente U
+C721,No perecedera,1251,19,Cliente M
+C722,No perecedera,452,22,Cliente_F
+C723,No perecedera,1383,49,Cliente J
+C724,Perecedera,482,47,Cliente U
+C725,No perecedera,1058,46,Cliente_F
+C726,Perecedera,382,42,Cliente U
+C727,No perecedera,1256,36,Cliente U
+C728,No perecedera,641,34,Cliente R
+C729,No perecedera,769,16,Cliente S
+C730,Perecedera,378,29,Cliente_G
+C731,Perecedera,687,14,Cliente N
+C732,Perecedera,648,5,Cliente I
+C733,Perecedera,1471,8,Cliente V
+C734,Perecedera,1294,26,Cliente P
+C735,Perecedera,520,35,Cliente M
+C736,No perecedera,227,30,CLIENTE B
+C737,No perecedera,1465,31,Cliente_F
+C738,No perecedera,1953,26,Cliente S
+C739,Perecedera,1779,42,Cliente V
+C740,Perecedera,359,47,Cliente O
+C741,No perecedera,232,9,Cliente L
+C742,No perecedera,1771,29,Cliente R
+C743,No perecedera,663,11,Cliente_F
+C744,Perecedera,1613,22,Cliente T
+C745,No perecedera,1950,48,Client Y
+C746,No perecedera,1552,8,CLIENTE A
+C747,No perecedera,1088,24,Cliente_D
+C748,No perecedera,853,19,Cliente Q
+C749,Perecedera,987,5,Cliente I
+C750,No perecedera,1219,7,CLIENTE C
+C751,Perecedera,753,33,Cliente H
+C752,Perecedera,1669,15,Client Y
+C753,No perecedera,370,46,Client Y
+C754,Perecedera,1203,17,CLIENTE B
+C755,Perecedera,1318,9,Cliente_F
+C756,No perecedera,453,27,Cliente V
+C757,No perecedera,1101,37,Cliente O
+C758,No perecedera,146,43,Cliente W
+C759,No perecedera,1799,11,Cliente Q
+C760,No perecedera,541,10,Cliente_F
+C761,No perecedera,1402,33,Cliente_G
+C762,No perecedera,347,39,Cliente T
+C763,No perecedera,422,32,Cliente U
+C764,No perecedera,107,43,Client Z
+C765,Perecedera,910,24,Cliente W
+C766,No perecedera,251,25,CLIENTE A
+C767,Perecedera,326,33,Cliente P
+C768,Perecedera,883,39,Cliente R
+C769,Perecedera,139,13,Cliente V
+C770,Perecedera,685,31,Cliente H
+C771,Perecedera,155,6,Cliente_F
+C772,No perecedera,251,5,Cliente K
+C773,No perecedera,210,26,Client Y
+C774,Perecedera,888,24,Client Z
+C775,No perecedera,1416,31,Cliente_D
+C776,Perecedera,244,33,Cliente M
+C777,Perecedera,218,27,Cliente J
+C778,No perecedera,1242,44,Cliente T
+C779,No perecedera,1649,24,Cliente J
+C780,Perecedera,261,30,Cliente N
+C781,No perecedera,645,50,Cliente N
+C782,Perecedera,614,34,Cliente_F
+C783,No perecedera,1525,19,Cliente E
+C784,No perecedera,904,21,Cliente Q
+C785,Perecedera,241,13,Client X
+C786,No perecedera,1973,22,Client Z
+C787,Perecedera,1802,13,CLIENTE A
+C788,No perecedera,1840,6,Cliente V
+C789,No perecedera,1723,8,Cliente U
+C790,No perecedera,957,5,CLIENTE C
+C791,No perecedera,1638,8,Cliente M
+C792,No perecedera,1682,17,Client Z
+C793,No perecedera,916,11,Cliente N
+C794,Perecedera,1081,49,Cliente U
+C795,No perecedera,613,45,CLIENTE C
+C796,No perecedera,671,12,Cliente P
+C797,Perecedera,1724,45,Cliente V
+C798,No perecedera,1952,49,Cliente S
+C799,No perecedera,908,22,Cliente K
+C800,No perecedera,1435,14,Cliente L
+C801,Perecedera,148,35,Cliente_G
+C802,Perecedera,1993,46,Cliente E
+C803,Perecedera,1568,24,Client X
+C804,Perecedera,1778,27,Cliente U
+C805,No perecedera,340,34,Cliente_F
+C806,Perecedera,1962,21,Cliente U
+C807,Perecedera,125,47,Cliente I
+C808,Perecedera,491,34,Cliente_G
+C809,Perecedera,1772,45,Cliente L
+C810,No perecedera,834,23,Cliente W
+C811,Perecedera,851,14,Cliente T
+C812,No perecedera,195,26,Cliente I
+C813,No perecedera,329,40,Cliente Q
+C814,No perecedera,1571,34,Cliente R
+C815,Perecedera,585,12,Cliente L
+C816,Perecedera,1961,18,Cliente U
+C817,No perecedera,1083,17,Client X
+C818,No perecedera,308,12,Cliente R
+C819,Perecedera,853,47,Cliente W
+C820,Perecedera,1871,46,Cliente E
+C821,Perecedera,1033,46,Cliente_D
+C822,Perecedera,1387,37,Cliente M
+C823,Perecedera,1948,6,Cliente L
+C824,Perecedera,702,8,Cliente E
+C825,No perecedera,540,37,Cliente S
+C826,Perecedera,716,11,Cliente U
+C827,No perecedera,1968,22,Client Z
+C828,Perecedera,740,22,Cliente W
+C829,No perecedera,1589,48,Cliente L
+C830,No perecedera,550,23,Cliente_F
+C831,No perecedera,1252,17,Cliente N
+C832,Perecedera,420,37,Cliente M
+C833,Perecedera,103,7,CLIENTE B
+C834,No perecedera,1447,21,Client Y
+C835,No perecedera,960,43,CLIENTE C
+C836,Perecedera,511,35,Cliente M
+C837,Perecedera,1545,32,CLIENTE C
+C838,No perecedera,1074,8,Cliente_D
+C839,No perecedera,1378,22,Cliente V
+C840,Perecedera,1089,41,Cliente J
+C841,No perecedera,627,46,Cliente H
+C842,No perecedera,1610,25,Cliente J
+C843,Perecedera,1281,37,Cliente W
+C844,Perecedera,1562,15,Cliente Q
+C845,No perecedera,1776,27,Cliente H
+C846,Perecedera,1946,16,Cliente S
+C847,No perecedera,855,17,Cliente K
+C848,Perecedera,1777,35,Cliente L
+C849,Perecedera,228,39,Client Y
+C850,Perecedera,100,42,Cliente M
+C851,Perecedera,1782,42,Cliente T
+C852,No perecedera,691,47,Cliente W
+C853,Perecedera,878,11,Cliente_G
+C854,No perecedera,992,46,Cliente Q
+C855,No perecedera,271,45,Cliente N
+C856,Perecedera,1099,36,Cliente H
+C857,No perecedera,1416,24,Cliente_G
+C858,No perecedera,1854,42,Cliente W
+C859,No perecedera,1674,30,Cliente O
+C860,No perecedera,1302,34,Cliente U
+C861,Perecedera,1038,11,Cliente V
+C862,Perecedera,515,39,Cliente_F
+C863,Perecedera,1320,33,CLIENTE B
+C864,No perecedera,240,33,CLIENTE C
+C865,No perecedera,602,46,Client X
+C866,No perecedera,998,34,Cliente K
+C867,Perecedera,529,32,Cliente_G
+C868,No perecedera,752,5,Cliente I
+C869,No perecedera,1100,33,CLIENTE B
+C870,Perecedera,208,19,Cliente J
+C871,No perecedera,1518,43,Cliente E
+C872,No perecedera,1006,50,Cliente J
+C873,Perecedera,134,19,Cliente J
+C874,No perecedera,102,21,Cliente H
+C875,No perecedera,225,49,Cliente N
+C876,Perecedera,1750,48,Cliente K
+C877,Perecedera,1527,32,Client X
+C878,Perecedera,1957,32,Client X
+C879,No perecedera,1538,12,Cliente P
+C880,No perecedera,1373,18,Cliente O
+C881,Perecedera,482,42,Cliente K
+C882,Perecedera,687,15,CLIENTE A
+C883,No perecedera,1383,39,Cliente W
+C884,Perecedera,1416,43,CLIENTE C
+C885,No perecedera,1099,22,Cliente T
+C886,No perecedera,1384,26,CLIENTE A
+C887,Perecedera,1559,29,Cliente E
+C888,No perecedera,1000,37,Client Z
+C889,No perecedera,807,5,Cliente I
+C890,Perecedera,1292,29,CLIENTE C
+C891,No perecedera,986,19,Cliente_F
+C892,No perecedera,1111,10,Client Z
+C893,No perecedera,1201,9,Cliente H
+C894,Perecedera,1472,17,Cliente_D
+C895,Perecedera,553,34,Cliente_D
+C896,Perecedera,1270,30,Cliente_F
+C897,Perecedera,794,50,Cliente P
+C898,No perecedera,1793,50,Cliente P
+C899,No perecedera,1191,36,Cliente E
+C900,No perecedera,898,45,CLIENTE A
+C901,No perecedera,1563,25,CLIENTE B
+C902,Perecedera,1430,13,CLIENTE A
+C903,No perecedera,235,25,Cliente_F
+C904,No perecedera,1115,19,Cliente J
+C905,Perecedera,481,31,Cliente J
+C906,Perecedera,971,48,Cliente P
+C907,No perecedera,1453,42,Cliente_G
+C908,No perecedera,1723,47,Cliente V
+C909,Perecedera,413,41,Cliente_F
+C910,Perecedera,554,5,CLIENTE C
+C911,Perecedera,986,44,Cliente_G
+C912,Perecedera,817,11,Client X
+C913,Perecedera,1900,48,Cliente_F
+C914,No perecedera,1195,31,Cliente H
+C915,No perecedera,859,22,Cliente P
+C916,No perecedera,1310,19,CLIENTE A
+C917,No perecedera,115,38,Client X
+C918,No perecedera,335,49,Cliente Q
+C919,No perecedera,1764,16,Cliente T
+C920,No perecedera,894,39,Cliente Q
+C921,Perecedera,1782,33,Cliente K
+C922,Perecedera,1562,7,Client Y
+C923,Perecedera,1220,50,Cliente_F
+C924,No perecedera,1851,31,Cliente L
+C925,No perecedera,1582,47,Client Y
+C926,Perecedera,234,30,Cliente_D
+C927,Perecedera,828,22,Client Z
+C928,Perecedera,125,23,Cliente P
+C929,No perecedera,1083,49,Cliente M
+C930,No perecedera,960,45,Client Y
+C931,No perecedera,1264,34,CLIENTE C
+C932,No perecedera,109,37,Cliente I
+C933,Perecedera,1441,50,Cliente R
+C934,No perecedera,992,49,Cliente V
+C935,Perecedera,1577,32,Cliente N
+C936,Perecedera,988,22,Cliente L
+C937,No perecedera,1776,31,Cliente L
+C938,No perecedera,1496,20,Cliente L
+C939,No perecedera,337,29,Cliente N
+C940,No perecedera,1776,44,CLIENTE C
+C941,Perecedera,327,14,Cliente P
+C942,Perecedera,346,16,Cliente I
+C943,No perecedera,1730,11,Cliente_G
+C944,Perecedera,1742,20,Cliente K
+C945,No perecedera,1061,43,CLIENTE A
+C946,No perecedera,290,41,Client Y
+C947,No perecedera,1196,5,CLIENTE B
+C948,Perecedera,435,20,Client Y
+C949,No perecedera,1613,44,Cliente M
+C950,Perecedera,324,39,Client Z
+C951,No perecedera,229,13,Cliente_F
+C952,Perecedera,1950,43,Cliente R
+C953,Perecedera,1326,8,Cliente T
+C954,Perecedera,139,46,Client Y
+C955,No perecedera,1276,11,Cliente I
+C956,Perecedera,800,16,Cliente K
+C957,No perecedera,714,19,CLIENTE B
+C958,No perecedera,1493,41,Cliente M
+C959,Perecedera,1251,11,Cliente E
+C960,No perecedera,1333,20,Cliente_F
+C961,Perecedera,569,40,Client Z
+C962,No perecedera,1920,34,Cliente J
+C963,No perecedera,606,42,Client X
+C964,Perecedera,838,14,Cliente I
+C965,No perecedera,642,6,Client Y
+C966,No perecedera,179,18,Cliente_D
+C967,Perecedera,471,16,Cliente Q
+C968,Perecedera,1871,45,Cliente_G
+C969,Perecedera,1449,34,CLIENTE A
+C970,Perecedera,1042,33,Cliente N
+C971,Perecedera,1709,5,Cliente S
+C972,Perecedera,1058,38,Cliente T
+C973,No perecedera,532,21,Cliente T
+C974,No perecedera,1977,34,Cliente J
+C975,Perecedera,457,32,Cliente N
+C976,No perecedera,893,25,Client X
+C977,Perecedera,442,8,Client Y
+C978,Perecedera,1761,33,Cliente S
+C979,Perecedera,1687,41,Cliente_D
+C980,No perecedera,833,33,Cliente H
+C981,Perecedera,208,5,Cliente M
+C982,Perecedera,877,26,Cliente L
+C983,Perecedera,1067,10,Cliente_G
+C984,No perecedera,1024,13,Cliente Q
+C985,No perecedera,1629,27,CLIENTE A
+C986,No perecedera,763,18,CLIENTE C
+C987,No perecedera,683,30,Cliente E
+C988,Perecedera,907,21,Cliente J
+C989,No perecedera,1578,32,Cliente N
+C990,No perecedera,1872,21,Cliente M
+C991,No perecedera,1247,19,Cliente P
+C992,No perecedera,445,46,Client X
+C993,Perecedera,915,5,Client Z
+C994,Perecedera,1201,49,Cliente S
+C995,Perecedera,1535,37,Cliente Q
+C996,Perecedera,756,16,Cliente_F
+C997,No perecedera,120,18,Cliente M
+C998,No perecedera,1188,42,Cliente R
+C999,Perecedera,1702,27,Cliente T
+C1000,Perecedera,974,11,Cliente L
