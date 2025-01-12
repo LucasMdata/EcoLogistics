@@ -1,0 +1,187 @@
+CREATE TABLE RAW_FLOTA (
+	Id_Flota varchar (10) not null, 
+	Tipo_Vehiculo varchar (15) null,
+	Capacidad_Carga	varchar (15) null, 
+	Consumo_promedio varchar (15)  null, 
+	Emisiones_CO2 Varchar (15)  null, 
+	Año_Fabricacion	varchar (15)  null, 
+	Kilometraje varchar (15)  null 
+)
+
+CREATE TABLE STG_FLOTA (	
+	Id_Flota	Varchar (10) not null, 
+	Tipo_Vehiculo	Varchar (15)  null, 
+	Capacidad_Carga	Int null,
+	Consumo_promedio	Float null,
+	Emisiones_CO2	Int null,
+	Anio_Fabricacion	Int null,
+	Kilometraje	Int null
+)
+
+CREATE TABLE INT_FLOTA (	
+	Id_Flota	Varchar (10) not null, 
+	Tipo_Vehiculo	Varchar (15)  null, 
+	Capacidad_Carga	Int null,
+	Consumo_promedio	Float null,
+	Emisiones_CO2	Int null,
+	Anio_Fabricacion	Int null,
+	Kilometraje	Int null
+)
+
+CREATE TABLE DIM_FLOTA (	
+	Id_Flota	Varchar (10) PRIMARY KEY not null, 
+	Tipo_Vehiculo	Varchar (15)  null, 
+	Capacidad_Carga	Int null,
+	Consumo_promedio	Float null,
+	Emisiones_CO2	Int null,
+	Anio_Fabricacion	Int null,
+	Kilometraje	Int null
+)
+
+----------------------------------------
+
+CREATE TABLE RAW_CARGA (
+	ID_Carga	Varchar (10) not null, 
+	Tipo_Carga	Varchar (15)  null, 
+	Peso_Kg	Varchar (15)  null, 
+	Volumen_m3	Varchar (15)  null, 
+	Cliente	Varchar (15)  null
+)
+
+CREATE TABLE STG_CARGA (	
+	ID_Carga	Varchar (10) not null, 
+	Tipo_Carga	Varchar (15)  null, 
+	Peso_Kg	Int null,
+	Volumen_m3	Int null,
+	Cliente	Varchar (15)  null
+)
+ 
+CREATE TABLE INT_CARGA (	
+	ID_Carga	Varchar (10) not null, 
+	Tipo_Carga	Varchar (15)  null, 
+	Peso_Kg	Int null,
+	Volumen_m3	Int null,
+	Cliente	Varchar (15)  null
+)
+
+CREATE TABLE DIM_CARGA (	
+	ID_Carga	Varchar (10) PRIMARY KEY not null, 
+	Tipo_Carga	Varchar (15)  null, 
+	Peso_Kg	Int null,
+	Volumen_m3	Int null,
+	Cliente	Varchar (15)  null
+)
+
+-----------------------------------------------------
+
+CREATE TABLE  RAW_RUTAS (
+	 ID_Ruta   varchar (10) NOT NULL,
+	 Origen   varchar (15) NULL,
+	 ID_Flota   varchar (15) NULL,
+	 ID_Carga   varchar (15) NULL,
+	 Destino   varchar (15) NULL,
+	 Distancia_Km   varchar (15) NULL,
+	 Tipo_Terreno   varchar (15) NULL,
+	 DUMMY_Column   varchar (15) NULL
+)
+
+CREATE TABLE  STG_RUTAS (
+	 ID_Ruta   varchar (10) NOT NULL,
+	 Origen   varchar (5) NULL,
+	 ID_Flota   varchar (10) NULL,
+	 ID_Carga   varchar (10) NULL,
+	 Destino   varchar (5) NULL,
+	 Distancia_Km   int  NULL,
+	 Tipo_Terreno   varchar (15) NULL
+) 
+
+CREATE TABLE  INT_RUTAS (
+	 ID_Ruta   varchar (10) NOT NULL,
+	 Origen   varchar (5) NULL,
+	 ID_Flota   varchar (10) NULL,
+	 ID_Carga   varchar (10) NULL,
+	 Destino   varchar (5) NULL,
+	 Distancia_Km   int  NULL,
+	 Tipo_Terreno   varchar (15) NULL
+) 
+
+CREATE TABLE DIM_RUTAS(
+	 ID_Ruta   varchar (10) PRIMARY  KEY NOT NULL,
+	 Origen   varchar (5) NULL,
+	 ID_Flota   varchar (10) NULL,
+	 ID_Carga   varchar (10) NULL,
+	 Destino   varchar (5) NULL,
+	 Distancia_Km   int  NULL,
+	 Tipo_Terreno   varchar (15) NULL,
+	FOREIGN KEY (ID_Flota) REFERENCES DIM_FLOTA (Id_Flota),
+	FOREIGN KEY (ID_Carga) REFERENCES DIM_CARGA (ID_Carga)
+) 
+
+
+--------------------------------------------------------------
+
+
+CREATE TABLE  RAW_TIEMPOS_COSTOS (
+	 ID_Tiempo_Costos   varchar (15) NOT NULL,
+	 ID_Ruta   varchar (15) NULL,
+	 Tiempo_Transporte_hrs   varchar (15) NULL,
+	 Costo_Total   varchar (15) NULL,
+	 Fecha_Transporte   varchar (15) NULL
+) 
+
+CREATE TABLE  STG_TIEMPOS_COSTOS (
+	 ID_Tiempo_Costos   varchar (15) NOT NULL,
+	 ID_Ruta   varchar (10) NOT NULL,
+	 Tiempo_Transporte_hrs   float  NULL,
+	 Costo_Total   int  NULL,
+	 Fecha_Transporte   datetime  NULL
+) 
+
+CREATE TABLE  INT_TIEMPOS_COSTOS (
+	 ID_Tiempo_Costos   varchar (15) NOT NULL,
+	 ID_Ruta   varchar (10) NOT NULL,
+	 Tiempo_Transporte_hrs   float  NULL,
+	 Costo_Total   int  NULL,
+	 Fecha_Transporte   datetime  NULL
+) 
+
+CREATE TABLE FACT_TIEMPOS_COSTOS (
+	 ID_Tiempo_Costos   varchar (15) PRIMARY KEY NOT NULL,
+	 ID_Ruta   varchar (10) NOT NULL,
+	 Tiempo_Transporte_hrs   float  NULL,
+	 Costo_Total   int  NULL,
+	 Fecha_Transporte   datetime  NULL,
+	FOREIGN KEY (ID_RUTA) REFERENCES DIM_RUTAS (ID_Ruta)
+) 
+
+----------------------------------------------------
+
+CREATE INDEX Idx_Flota on DIM_FLOTA (Id_Flota)
+CREATE INDEX IDx_Carga on DIM_CARGA (ID_Carga)
+CREATE INDEX IDx_Ruta on DIM_RUTAS (ID_Ruta)
+CREATE INDEX IDx_Tiempos_Costos on FACT_TIEMPOS_COSTOS (ID_Tiempo_Costos)
+
+-----------------------------------------------------------
+
+CREATE TABLE DIM_CLIENTE (
+    Id_Cliente INT IDENTITY(1,1) PRIMARY KEY,
+    Cliente VARCHAR(100)
+)
+
+INSERT INTO DIM_CLIENTE (Cliente)
+SELECT DISTINCT Cliente
+FROM DIM_CLIENTE
+
+ALTER TABLE DIM_CARGAS
+ADD Id_Cliente INT
+
+UPDATE DIM_CARGAS
+SET Id_Cliente = C.Id_Cliente
+FROM DIM_CARGAS C
+INNER JOIN DIM_CLIENTE CS ON C.Cliente = CS.Cliente
+
+ALTER TABLE DIM_CARGAS
+DROP COLUMN Cliente
+
+----------------------------------------------------------
+
